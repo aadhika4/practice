@@ -1,3 +1,10 @@
+# Ruby on Rails practice app. 
+
+This is the practice application for myself.
+["Ruby on Rails Tutorial"] 
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
