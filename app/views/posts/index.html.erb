@@ -1,0 +1,8 @@
+<h1> Practice File </h1>
+<% @posts.each do |post|%>
+  <h2><%= link_to post.title, post %></h2>
+  <p><%= post.content %> </p>
+  <hr />
+<% end %>
+
+<p><%= link_to "Add a New Post", new_post_path %></p>
